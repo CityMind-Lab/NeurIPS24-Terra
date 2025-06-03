@@ -22,7 +22,7 @@
     + [MM4TSA](./assert/), Liu et al. arXiv, 2025. [Repo. Link](https://github.com/AdityaLab/MM4TSA)
 
 ## Citation
- If you find the EAC helpful in your research, please consider to star this repository and cite this paper:
+ If you find the Terra helpful in your research, please consider to star this repository and cite this paper:
 ```
 @inproceedings{chen2024terra,
   title={Terra: A Multimodal Spatio-Temporal Dataset Spanning the Earth},
