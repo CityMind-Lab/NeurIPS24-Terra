@@ -6,8 +6,15 @@
 - For experimental details in Section 4.2
   + please refer to the ```Spatial_Task``` [folder](./Spatial_Task/).
 
+## News
+
+- _2025/6/8_: Feel free to check out and follow our work on the supervised fine-tuning (SFT) phase of spatio-temporal models published at [ICLR2025](https://arxiv.org/abs/2410.12593) (fully open source [Link](https://github.com/Onedean/EAC))!
+
+- _2025/6/8_:The dataset migration is almost done (about 2-3 days left)!
+
+- _2025/5/15_:Due to various factors such as hugging face's upload rate and policy, we are considering migrating all datasets to a stable cloud disk service, which is expected to take three weeks.
+
 ## Dataset resources
-- Due to various factors such as hugging face's upload rate and policy, we are considering migrating all datasets to a stable cloud disk service, which is expected to take two weeks (in June).
 
 - _The new link of terra dataset is available, please visit: [Link](https://hkustgz-my.sharepoint.com/:f:/g/personal/wchen110_connect_hkust-gz_edu_cn/Ev1pUSErKghFkzmXb5j7svgBf2XwMn095VNz1kOOtjhTXA?e=lUCxZb)._
 
