@@ -15,7 +15,7 @@
 
 ## 📚 Dataset resources
 
-- **Important Update:** _We changed the storage location of the dataset to a more stable cloud disk. The new link of terra dataset is available, please visit: [Link](https://hkustgz-my.sharepoint.com/:f:/g/personal/wchen110_connect_hkust-gz_edu_cn/Ev1pUSErKghFkzmXb5j7svgBf2XwMn095VNz1kOOtjhTXA?e=lUCxZb)._
+- **❗❗❗Important Update:** _We changed the storage location of the dataset to a more stable cloud disk. The new link of terra dataset is available, please visit: [Link](https://hkustgz-my.sharepoint.com/:f:/g/personal/wchen110_connect_hkust-gz_edu_cn/Ev1pUSErKghFkzmXb5j7svgBf2XwMn095VNz1kOOtjhTXA?e=lUCxZb)._
 
 
 ## 📰 News
