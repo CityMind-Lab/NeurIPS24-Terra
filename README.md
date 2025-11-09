@@ -20,7 +20,9 @@
 
 ## 📰 News
 
-- _2025/6/8_: Feel free to check out and follow our work on the supervised fine-tuning (SFT) phase of spatio-temporal models published at [ICLR2025](https://arxiv.org/abs/2410.12593) (fully open source [Link](https://github.com/Onedean/EAC))!
+- _2025/9/30_: Feel free to check out and follow our work on the test-time computing (TTC) phase of spatio-temporal models published at [NeurIPS 2025 (Spotlight)](https://arxiv.org/pdf/2506.00635) (fully open source [Link](https://github.com/Onedean/ST-TTC))!
+
+- _2025/6/8_: Feel free to check out and follow our work on the supervised fine-tuning (SFT) phase of spatio-temporal models published at [ICLR 2025](https://arxiv.org/abs/2410.12593) (fully open source [Link](https://github.com/Onedean/EAC))!
 
 - _2025/6/8_: The dataset migration is complete (see new link)!
 
@@ -53,6 +55,25 @@
   author={Wei Chen, Xixuan Hao, Yuankai Wu, Yuxuan Liang},
   booktitle={Advances in Neural Information Processing Systems},
   year={2024}
+}
+```
+
+We also welcome to cite our recent follow up work:
+```
+@inproceedings{chen2025eac,
+  title={Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting},
+  author={Wei Chen and Yuxuan Liang},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}
+```
+
+```
+@inproceedings{chen2025stttc,
+  title={Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting},
+  author={Wei Chen and Yuxuan Liang},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
 }
 ```
 
